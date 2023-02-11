@@ -1,6 +1,6 @@
-baseURL: "https://trungnguyenduc0101.github.io"
+baseURL: "https://trungnd19.github.io"
 languageCode: en-us
-title: My New Hugo Site
+title: trungnd19
 theme: "PaperMod"
 publishDir: "docs"
 params:
