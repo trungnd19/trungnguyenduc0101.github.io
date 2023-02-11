@@ -1,6 +1,6 @@
 baseURL: "https://trungnd19.github.io"
 languageCode: en-us
-title: trungnd19
+title: "trungnd19"
 theme: "PaperMod"
 publishDir: "docs"
 params:
