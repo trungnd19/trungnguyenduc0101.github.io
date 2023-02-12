@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trungnguyenduc0101.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-11-20T09:03:20-08:00</lastmod>
+    <loc>https://trungnd19.github.io/angular/clickoutside-directive/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trungnguyenduc0101.github.io/</loc>
-    <lastmod>2022-11-20T09:03:20-08:00</lastmod>
+    <loc>https://trungnd19.github.io/posts/clickoutside-directive/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trungnguyenduc0101.github.io/posts/</loc>
-    <lastmod>2022-11-20T09:03:20-08:00</lastmod>
+    <loc>https://trungnd19.github.io/book-review/tartarin/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trungnguyenduc0101.github.io/categories/</loc>
+    <loc>https://trungnd19.github.io/posts/tartarin/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trungnguyenduc0101.github.io/tags/</loc>
+    <loc>https://trungnd19.github.io/tags/angular/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/angular/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/book-review/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/posts/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/tags/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/</loc>
+    <lastmod>2022-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://trungnd19.github.io/categories/</loc>
   </url>
 </urlset>

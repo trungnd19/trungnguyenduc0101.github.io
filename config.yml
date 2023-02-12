@@ -3,6 +3,43 @@ languageCode: en-us
 title: "trungnd19"
 theme: "PaperMod"
 publishDir: "docs"
+customCSS: ["/style.css"]
 params:
     assets:
         disableFingerprinting: true
+    ShowCodeCopyButtons: true
+    ShowReadingTime: true
+    ShowShareButtons: true
+menu:
+    main:
+        - identifier: 
+          name: angular
+          url: /angular/
+          weight: 10
+          params:
+            class: highlight-menu-item
+          pre: <i class='fa fa-heart'></i>
+        - identifier: 
+          name: javascript
+          url: /javascript/
+          weight: 20
+        - identifier: 
+          name: hmtl/css
+          url: /hmtl-css/
+          weight: 30
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 40
+        # - identifier: search
+        #   name: search
+        #   url: /search/
+        #   weight: 50
+        - identifier: Book Review
+          name: book review
+          url: /book-review/
+          weight: 60
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 70
