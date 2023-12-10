@@ -13,20 +13,20 @@ params:
 menu:
     main:
         - identifier: 
-          name: angular
-          url: /angular/
+          name: vue
+          url: /vue/
           weight: 10
           params:
             class: highlight-menu-item
           pre: <i class='fa fa-heart'></i>
         - identifier: 
-          name: javascript
-          url: /javascript/
+          name: angular
+          url: /angular/
           weight: 20
-        - identifier: 
-          name: hmtl/css
-          url: /hmtl-css/
-          weight: 30
+        # - identifier: 
+        #   name: hmtl/css
+        #   url: /hmtl-css/
+        #   weight: 30
         # - identifier: tags
         #   name: tags
         #   url: /tags/
@@ -35,10 +35,6 @@ menu:
         #   name: search
         #   url: /search/
         #   weight: 50
-        - identifier: Book Review
-          name: book review
-          url: /book-review/
-          weight: 60
         - identifier: about
           name: about
           url: /about/
