@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vue on trungnd19</title>
+    <link>https://trungnd19.github.io/tags/vue/</link>
+    <description>Recent content in vue on trungnd19</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trungnd19.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm thế nào để truyền data giữa các components con trong Vue?</title>
+      <link>https://trungnd19.github.io/posts/passing-data-between-child-components/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trungnd19.github.io/posts/passing-data-between-child-components/</guid>
+      <description>Có cách nào để các components con (thuộc cùng một component cha) giao tiếp với nhau trong Vue?</description>
+    </item>
+    
+    <item>
+      <title>Làm thế nào để truyền data giữa các components con trong Vue?</title>
+      <link>https://trungnd19.github.io/vue/passing-data-between-child-components/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trungnd19.github.io/vue/passing-data-between-child-components/</guid>
+      <description>Có cách nào để các components con (thuộc cùng một component cha) giao tiếp với nhau trong Vue?</description>
+    </item>
+    
+  </channel>
+</rss>
