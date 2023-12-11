@@ -6,7 +6,7 @@
     <description>Recent content in Vues on trungnd19</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trungnd19.github.io/vue/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trungnd19.github.io/vue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Làm thế nào để truyền data giữa các components con trong Vue?</title>
       <link>https://trungnd19.github.io/vue/passing-data-between-child-components/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://trungnd19.github.io/vue/passing-data-between-child-components/</guid>
       <description>Có cách nào để các components con (thuộc cùng một component cha) giao tiếp với nhau trong Vue?</description>
+    </item>
+    
+    <item>
+      <title>Sử dụng Typescript với provide/ inject trong Vue</title>
+      <link>https://trungnd19.github.io/vue/typing-provide-inject/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trungnd19.github.io/vue/typing-provide-inject/</guid>
+      <description>Cách typing provide/ inject trong Vue 3</description>
     </item>
     
   </channel>
