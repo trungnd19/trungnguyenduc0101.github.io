@@ -6,7 +6,7 @@
     <description>Recent content in vue on trungnd19</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trungnd19.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trungnd19.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Làm thế nào để truyền data giữa các components con trong Vue?</title>
       <link>https://trungnd19.github.io/posts/passing-data-between-child-components/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://trungnd19.github.io/vue/passing-data-between-child-components/</guid>
       <description>Có cách nào để các components con (thuộc cùng một component cha) giao tiếp với nhau trong Vue?</description>
+    </item>
+    
+    <item>
+      <title>Quá nhiều Props phải truyền xuống? Làm thế nào để code gọn?</title>
+      <link>https://trungnd19.github.io/posts/a-simple-way-to-pass-a-lot-of-props/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://trungnd19.github.io/posts/a-simple-way-to-pass-a-lot-of-props/</guid>
+      <description>Cách để code gọn gàng hơn khi phải truyền rất nhiều props cho component con</description>
     </item>
     
     <item>
